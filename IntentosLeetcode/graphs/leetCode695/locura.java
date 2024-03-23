@@ -81,7 +81,7 @@ public class locura {
             queue.offer(new int[]{x, y});
         }
     }
-
+//tu mama
     public static void main(String[] args) {
         locura locura = new locura();
         int[][] grid = {
